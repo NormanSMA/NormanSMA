@@ -1,19 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 274" width="760" height="274" role="img" aria-label="Terminal: whoami">
-<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:15px;white-space:pre}.l{opacity:0;animation:on 0s linear var(--d) forwards}.t{clip-path:inset(0 100% 0 0);animation:on 0s linear var(--d) forwards,type var(--dur) steps(var(--n),end) var(--d) forwards}.cur{opacity:0;animation:on 0s linear var(--d) forwards,blink 1.1s steps(1) calc(var(--d) + .1s) infinite}@keyframes on{to{opacity:1}}@keyframes type{to{clip-path:inset(0 0 0 0)}}@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}</style>
-<rect width="760" height="274" rx="12" fill="#0d1117" stroke="#30363d"/>
-<path d="M0 12a12 12 0 0 1 12-12h736a12 12 0 0 1 12 12v24H0z" fill="#161b22"/>
-<circle cx="26" cy="18" r="6" fill="#ff5f56"/><circle cx="48" cy="18" r="6" fill="#ffbd2e"/><circle cx="70" cy="18" r="6" fill="#27c93f"/>
-<text x="380.0" y="23" text-anchor="middle" fill="#8b949e" style="font-size:13px">norman -- zsh -- 80x24</text>
-<text class="l" x="28" y="64" fill="#7ee787" textLength="162.0" lengthAdjust="spacing" style="--d:0.60s">norman@github ~ $ </text>
-<text class="t" x="190.0" y="64" fill="#e6edf3" textLength="54.0" lengthAdjust="spacing" style="--d:0.60s;--dur:0.42s;--n:6">whoami</text>
-<text class="l" x="28" y="90" fill="#8b949e" textLength="558.0" lengthAdjust="spacing" style="--d:1.27s">Norman Smith Martínez Acevedo - Full Stack | Databases | Cloud</text>
-<text class="l" x="28" y="116" fill="#7ee787" textLength="162.0" lengthAdjust="spacing" style="--d:1.62s">norman@github ~ $ </text>
-<text class="t" x="190.0" y="116" fill="#e6edf3" textLength="126.0" lengthAdjust="spacing" style="--d:1.62s;--dur:0.98s;--n:14">cat status.txt</text>
-<text class="l" x="28" y="142" fill="#8b949e" textLength="612.0" lengthAdjust="spacing" style="--d:2.85s">Final-year Information Systems Engineering student at UAM (Dec 2026)</text>
-<text class="l" x="28" y="168" fill="#8b949e" textLength="468.0" lengthAdjust="spacing" style="--d:3.20s">Managua, Nicaragua - open to remote and junior roles</text>
-<text class="l" x="28" y="194" fill="#7ee787" textLength="162.0" lengthAdjust="spacing" style="--d:3.55s">norman@github ~ $ </text>
-<text class="t" x="190.0" y="194" fill="#e6edf3" textLength="135.0" lengthAdjust="spacing" style="--d:3.55s;--dur:1.05s;--n:15">ls open-source/</text>
-<text class="l" x="28" y="220" fill="#8b949e" textLength="378.0" lengthAdjust="spacing" style="--d:4.85s">jam  libredb-studio  freeCodeCamp  meshery</text>
-<text class="l" x="28" y="246" fill="#7ee787" textLength="162.0" lengthAdjust="spacing" style="--d:5.20s">norman@github ~ $ </text>
-<rect class="cur" x="190.0" y="233" width="9" height="17" fill="#e6edf3" style="--d:5.20s"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 265" width="760" height="265" role="img" aria-label="Console window: whoami">
+<style>text.c{font-family:'Lucida Console','Courier New',ui-monospace,Consolas,monospace;font-size:15px;white-space:pre}text.ui{font-family:Tahoma,'MS Sans Serif',Verdana,Arial,sans-serif;font-size:13px;font-weight:700}.l{opacity:0;animation:on 0s linear var(--d) forwards}.t{clip-path:inset(0 100% 0 0);animation:on 0s linear var(--d) forwards,type var(--dur) steps(var(--n),end) var(--d) forwards}.cur{opacity:0;animation:on 0s linear var(--d) forwards,blink 1.1s steps(1) calc(var(--d) + .1s) infinite}@keyframes on{to{opacity:1}}@keyframes type{to{clip-path:inset(0 0 0 0)}}@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}</style>
+<defs><linearGradient id="tb" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#000080"/><stop offset="1" stop-color="#1084d0"/></linearGradient></defs>
+<rect width="760" height="265" fill="#c0c0c0"/>
+<path d="M0 264V0H759" fill="none" stroke="#ffffff"/><path d="M759 0V264H0" fill="none" stroke="#404040"/><path d="M1 263V1H758" fill="none" stroke="#dfdfdf"/><path d="M758 1V263H1" fill="none" stroke="#808080"/>
+<rect x="4" y="4" width="752" height="22" fill="url(#tb)"/>
+<rect x="8" y="8" width="14" height="14" fill="#000"/><rect x="10" y="10" width="10" height="2" fill="#c0c0c0"/><text class="ui" x="28" y="20" fill="#ffffff">C:\WINDOWS\system32\cmd.exe - norman</text>
+<rect x="700" y="7" width="18" height="16" fill="#c0c0c0"/><path d="M700 22V7H717" fill="none" stroke="#ffffff"/><path d="M717 7V22H700" fill="none" stroke="#404040"/><path d="M701 21V8H716" fill="none" stroke="#dfdfdf"/><path d="M716 8V21H701" fill="none" stroke="#808080"/><rect x="705" y="17" width="7" height="2" fill="#000"/><rect x="718" y="7" width="18" height="16" fill="#c0c0c0"/><path d="M718 22V7H735" fill="none" stroke="#ffffff"/><path d="M735 7V22H718" fill="none" stroke="#404040"/><path d="M719 21V8H734" fill="none" stroke="#dfdfdf"/><path d="M734 8V21H719" fill="none" stroke="#808080"/><rect x="722" y="10" width="9" height="9" fill="none" stroke="#000"/><rect x="722" y="10" width="9" height="2" fill="#000"/><rect x="738" y="7" width="18" height="16" fill="#c0c0c0"/><path d="M738 22V7H755" fill="none" stroke="#ffffff"/><path d="M755 7V22H738" fill="none" stroke="#404040"/><path d="M739 21V8H754" fill="none" stroke="#dfdfdf"/><path d="M754 8V21H739" fill="none" stroke="#808080"/><path d="M743 11L750 18M750 11L743 18" stroke="#000" stroke-width="2" fill="none"/>
+<rect x="6" y="30" width="748" height="229" fill="#000000"/>
+<path d="M5 259V29H754" fill="none" stroke="#404040"/><path d="M754 29V259H5" fill="none" stroke="#ffffff"/><path d="M6 258V30H753" fill="none" stroke="#808080"/><path d="M753 30V258H6" fill="none" stroke="#dfdfdf"/>
+<text class="c l" x="20" y="64" fill="#c0c0c0" textLength="153.0" lengthAdjust="spacing" style="--d:0.60s">C:\Users\norman&gt; </text>
+<text class="c t" x="173.0" y="64" fill="#ffffff" textLength="54.0" lengthAdjust="spacing" style="--d:0.60s;--dur:0.42s;--n:6">whoami</text>
+<text class="c l" x="20" y="89" fill="#c0c0c0" textLength="558.0" lengthAdjust="spacing" style="--d:1.27s">Norman Smith Martínez Acevedo - Full Stack | Databases | Cloud</text>
+<text class="c l" x="20" y="114" fill="#c0c0c0" textLength="153.0" lengthAdjust="spacing" style="--d:1.62s">C:\Users\norman&gt; </text>
+<text class="c t" x="173.0" y="114" fill="#ffffff" textLength="135.0" lengthAdjust="spacing" style="--d:1.62s;--dur:1.05s;--n:15">type status.txt</text>
+<text class="c l" x="20" y="139" fill="#c0c0c0" textLength="612.0" lengthAdjust="spacing" style="--d:2.92s">Final-year Information Systems Engineering student at UAM (Dec 2026)</text>
+<text class="c l" x="20" y="164" fill="#c0c0c0" textLength="468.0" lengthAdjust="spacing" style="--d:3.27s">Managua, Nicaragua - open to remote and junior roles</text>
+<text class="c l" x="20" y="189" fill="#c0c0c0" textLength="153.0" lengthAdjust="spacing" style="--d:3.62s">C:\Users\norman&gt; </text>
+<text class="c t" x="173.0" y="189" fill="#ffffff" textLength="135.0" lengthAdjust="spacing" style="--d:3.62s;--dur:1.05s;--n:15">dir open-source</text>
+<text class="c l" x="20" y="214" fill="#c0c0c0" textLength="378.0" lengthAdjust="spacing" style="--d:4.92s">jam  libredb-studio  freeCodeCamp  meshery</text>
+<text class="c l" x="20" y="239" fill="#c0c0c0" textLength="153.0" lengthAdjust="spacing" style="--d:5.27s">C:\Users\norman&gt; </text>
+<rect class="cur" x="173.0" y="226" width="9" height="16" fill="#c0c0c0" style="--d:5.27s"/>
 </svg>

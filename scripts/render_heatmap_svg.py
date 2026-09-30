@@ -26,6 +26,7 @@ def main(source, out):
     height = TOP + 7 * (CELL + GAP) + 44
     body = []
     last_month = None
+    last_label_col = -10
     for index, day in enumerate(days):
         slot = index + offset
         col, row = divmod(slot, 7)
@@ -33,7 +34,9 @@ def main(source, out):
         y = TOP + row * (CELL + GAP)
         current = date.fromisoformat(day["date"])
         if row == 0 and current.month != last_month and col < weeks - 2:
-            body.append(f'<text x="{x}" y="{TOP - 10}" class="m">{MONTHS[current.month - 1]}</text>')
+            if col - last_label_col >= 3:
+                body.append(f'<text x="{x}" y="{TOP - 10}" class="m">{MONTHS[current.month - 1]}</text>')
+                last_label_col = col
             last_month = current.month
         delay = (col * 0.045) + (row * 0.012)
         body.append(

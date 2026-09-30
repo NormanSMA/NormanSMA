@@ -2,12 +2,16 @@
 
 <h3><code>norman@github ~ $ whoami</code></h3>
 
-<img src="./wordmark.svg" width="630" alt="NORMAN" />
+<table>
+<tr>
+<td valign="middle"><img src="./portrait.svg" width="250" alt="ASCII portrait of Norman" /></td>
+<td valign="middle"><img src="./wordmark.svg" width="540" alt="NORMAN SMA" /></td>
+</tr>
+</table>
 
 <br>
-<br>
 
-<img src="./terminal.svg" width="760" alt="Terminal card: Norman Smith Martinez Acevedo, Full Stack, Databases and Cloud developer from Managua, Nicaragua" />
+<img src="./terminal.svg" width="760" alt="Console window: Norman Smith Martinez Acevedo, Full Stack, Databases and Cloud developer from Managua, Nicaragua" />
 
 <br>
 <br>
