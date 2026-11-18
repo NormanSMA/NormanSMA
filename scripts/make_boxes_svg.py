@@ -115,7 +115,7 @@ ICONS = {
               '<path d="M1 3L9 9.5L17 3" fill="none" stroke="#58a6ff" stroke-width="1.8"/>'),
 }
 LINKS = [
-    ("portfolio", "open", "portafolio-nsma-dev.vercel.app"),
+    ("portfolio", "open", "nsma.dev"),
     ("linkedin", "connect", "in/norman-martinez"),
     ("email", "mail", "norman.martinez003@gmail.com"),
 ]

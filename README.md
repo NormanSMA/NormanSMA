@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<a href="https://portafolio-nsma-dev.vercel.app"><img src="./links/portfolio.svg" width="33.33%" alt="Portfolio: portafolio-nsma-dev.vercel.app" /></a><a href="https://linkedin.com/in/norman-martinez"><img src="./links/linkedin.svg" width="33.33%" alt="LinkedIn: in/norman-martinez" /></a><a href="mailto:norman.martinez003@gmail.com"><img src="./links/email.svg" width="33.33%" alt="Email: norman.martinez003@gmail.com" /></a>
+<a href="https://nsma.dev"><img src="./links/portfolio.svg" width="33.33%" alt="Portfolio: nsma.dev" /></a><a href="https://linkedin.com/in/norman-martinez"><img src="./links/linkedin.svg" width="33.33%" alt="LinkedIn: in/norman-martinez" /></a><a href="mailto:norman.martinez003@gmail.com"><img src="./links/email.svg" width="33.33%" alt="Email: norman.martinez003@gmail.com" /></a>
 
 <br>
 <br>
