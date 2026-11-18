@@ -1,11 +1,6 @@
 <div align="center">
 
-<img src="./whoami.svg" width="860" alt="norman@github ~ $ whoami: ASCII portrait of Norman and the NORMAN SMA wordmark" />
-
-<br>
-<br>
-
-<img src="./terminal.svg" width="760" alt="Console window: Norman Smith Martinez Acevedo, Full Stack, Databases and Cloud developer from Managua, Nicaragua" />
+<img src="./terminal.svg" width="860" alt="norman@github ~ $ whoami: Norman Smith Martinez Acevedo (@NormanSMA), Full Stack, Databases and Cloud developer from Managua, Nicaragua" />
 
 <br>
 <br>
